@@ -1,8 +1,8 @@
-package sery.vlasenko.movies
+package sery.vlasenko.movies.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import io.reactivex.rxjava3.core.Observable
+import sery.vlasenko.movies.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
