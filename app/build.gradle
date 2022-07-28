@@ -46,6 +46,9 @@ dependencies {
     implementation "com.google.android.material:material:$androidMaterialVer"
     implementation "androidx.constraintlayout:constraintlayout:$constraintLayoutVer"
 
+    // Activity ktx
+    implementation "androidx.activity:activity-ktx:$activityKtxVer"
+
     // Glide
     implementation "com.github.bumptech.glide:glide:$glideVer"
 

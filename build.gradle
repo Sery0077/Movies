@@ -30,6 +30,9 @@ ext {
     androidMaterialVer = '1.6.1'
     constraintLayoutVer = '2.1.4'
 
+    // Activity ktx
+    activityKtxVer = '1.5.1'
+
     // Fragment
     fragmentKtxVer = '1.4.1'
 
